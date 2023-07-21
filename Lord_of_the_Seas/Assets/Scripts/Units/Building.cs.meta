@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: baa1caa100617244b80f20972241234c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loseControllEffect: {fileID: 8300000, guid: f3b81f369b093974cb1e0b2b1f137060,
+      type: 3}
+  - particleEffectController: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dfa0935b5cac5d04ab3976ce91be8b83
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - particleEffectController: {instanceID: 0}
+  - audioClip: {fileID: 8300000, guid: 16f3d9d13d5b8084885984333b4ee769, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
